@@ -1,0 +1,33 @@
+header {
+	background:#C8BD9E;
+	color:white;
+	font-size:50pt;
+	font-family:Didot;
+	text-align: center;
+	width: 70%;
+	border-radius: 30px;
+}
+
+p {
+	color:#C8BD9E;
+	font-size:20pt;
+	font-family:Optima;
+	text-align: left;
+	width: 80%;
+}
+
+button {
+	background: #C5DDA3;
+	color: white;
+	font-size: 13pt;
+	width: 230px;
+	height: 30px;
+	border-color:#C5DDA3;
+	border-radius: 15px;
+	text-align: center;
+}
+
+button:hover {
+	background: #FDCCD2;
+	border-color: #FDCCD2;
+}

@@ -1,0 +1,53 @@
+header {
+	background:#C8BD9E;
+	color:white;
+	font-size:50pt;
+	font-family:Didot;
+	text-align: center;
+	width: 30%;
+	border-radius: 30px;
+}
+
+h1 {
+	color:#C8BD9E;
+	font-size:20pt;
+	font-family:Optima;
+	text-align: center;
+	width: 80%;
+}
+
+h2{
+	color:#C5DDA3;
+	font-size:15pt;
+	font-family:Optima;
+	text-align: center;
+	width: 80%;
+
+}
+
+p {
+	background:#C8BD9E;
+	color:white;
+	font-size:20pt;
+	font-family:Optima;
+	text-align: center;
+	width: 80%;
+	border-radius: 30px;
+}
+
+button {
+	background: #C5DDA3;
+	color: white;
+	font-size: 17pt;
+	font-weight: bold;
+	width: 230px;
+	height: 40px;
+	border-color:#C5DDA3;
+	border-radius: 15px;
+	text-align: center;
+}
+
+button:hover {
+	background: #FDCCD2;
+	border-color: #FDCCD2;
+}
